@@ -1,0 +1,12 @@
+C:\Users\Mr. YUNT\source\repos\Computer\AppCore\bin\Debug\net5.0\AppCore.deps.json
+C:\Users\Mr. YUNT\source\repos\Computer\AppCore\bin\Debug\net5.0\AppCore.dll
+C:\Users\Mr. YUNT\source\repos\Computer\AppCore\bin\Debug\net5.0\ref\AppCore.dll
+C:\Users\Mr. YUNT\source\repos\Computer\AppCore\bin\Debug\net5.0\AppCore.pdb
+C:\Users\Mr. YUNT\source\repos\Computer\AppCore\obj\Debug\net5.0\AppCore.csproj.AssemblyReference.cache
+C:\Users\Mr. YUNT\source\repos\Computer\AppCore\obj\Debug\net5.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. YUNT\source\repos\Computer\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfoInputs.cache
+C:\Users\Mr. YUNT\source\repos\Computer\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfo.cs
+C:\Users\Mr. YUNT\source\repos\Computer\AppCore\obj\Debug\net5.0\AppCore.csproj.CoreCompileInputs.cache
+C:\Users\Mr. YUNT\source\repos\Computer\AppCore\obj\Debug\net5.0\AppCore.dll
+C:\Users\Mr. YUNT\source\repos\Computer\AppCore\obj\Debug\net5.0\ref\AppCore.dll
+C:\Users\Mr. YUNT\source\repos\Computer\AppCore\obj\Debug\net5.0\AppCore.pdb

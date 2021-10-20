@@ -1,0 +1,17 @@
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\bin\Debug\net5.0\Computer.Business.deps.json
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\bin\Debug\net5.0\Computer.Business.dll
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\bin\Debug\net5.0\ref\Computer.Business.dll
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\bin\Debug\net5.0\Computer.Business.pdb
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\bin\Debug\net5.0\AppCore.dll
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\bin\Debug\net5.0\Computer.DAL.dll
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\bin\Debug\net5.0\Computer.DAL.pdb
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\bin\Debug\net5.0\AppCore.pdb
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\obj\Debug\net5.0\Computer.Business.csproj.AssemblyReference.cache
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\obj\Debug\net5.0\Computer.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\obj\Debug\net5.0\Computer.Business.AssemblyInfoInputs.cache
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\obj\Debug\net5.0\Computer.Business.AssemblyInfo.cs
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\obj\Debug\net5.0\Computer.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\obj\Debug\net5.0\Computer.Business.csproj.CopyComplete
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\obj\Debug\net5.0\Computer.Business.dll
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\obj\Debug\net5.0\ref\Computer.Business.dll
+C:\Users\Mr. YUNT\source\repos\Computer\Computer.Business\obj\Debug\net5.0\Computer.Business.pdb
